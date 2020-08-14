@@ -1,0 +1,6 @@
+num_1 = float (input ("Enter first num: ",  ))
+num_2 = float (input ("Enter second num ", ))
+res = (num_1 + num_2)
+res = (res//10)
+print ("Your result is ... zzzzzzzzzzzz")
+print (res)
